@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michel Araújo</h1>
 
 <h2 style="border-bottom: 2px solid #007BFF; padding-bottom: 10px; color: #007BFF;">Sobre Mim</h2>
-<p>Sou desenvolvedor Frontend com 4 anos de experiência, apaixonado por transformar
+<p>Sou desenvolvedor Frontend com 5 anos de experiência, apaixonado por transformar
     ideias em interfaces intuitivas e funcionais. Minha jornada começou em 2014, quando me formei em Marketing,
     mas foi em 2019 que decidi seguir minha verdadeira vocação e fiz a transição para o desenvolvimento web.
     Desde então, tenho me dedicado a criar experiências digitais impactantes.</p>
