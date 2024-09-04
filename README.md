@@ -27,7 +27,7 @@
     <li>Colaboração eficaz em equipes</li>
     <li>Gestão de tempo e resolução de problemas</li>
     <li>Empatia com o usuário e foco em soluções práticas</li>
-    <li>Experiência em metodologias ágeis (Scrum, Kanban)</li>
+    <li><strong>Metodologias Ágeis:</strong> Sou um entusiasta de Scrum e Kanban! Acredito firmemente no poder das metodologias ágeis de entregam valor, trazendo eficiência, transparência e colaboração ao centro dos projetos.</li>
 </ul>
 
 <h2 style="border-bottom: 2px solid #007BFF; padding-bottom: 10px; color: #007BFF;">O que Estou Procurando</h2>
